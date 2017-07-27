@@ -1,1 +1,3 @@
 template_path: templates/newsletter.py
+sceptre_user_data:
+  bucket_name: cr-website-bucket
